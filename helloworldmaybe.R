@@ -1,2 +1,2 @@
 print("Hello World, maybe?")
-print("Updating...")
+print("Failure was successful")
